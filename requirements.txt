@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+pycocotools
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+pyyaml
+tqdm
+jupyter
+ipykernel
+EOF
